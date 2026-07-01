@@ -194,39 +194,31 @@ to estimate potential future net worth based on historical trends.
 
 ## Home Dashboard
 
-images/home_page.png
+<img width="1915" height="948" alt="Home_page" src="https://github.com/user-attachments/assets/501e8c4b-b4f6-42d8-84e8-3ef4505e337e" />
 
 ***
 
 ## Money Flow Analysis
 
-> *Insert Sankey Diagram screenshot here*
-
-images/money\_flow\.png
+<img width="1908" height="941" alt="Sankey_diagram" src="https://github.com/user-attachments/assets/80c7262d-a400-44e0-a453-df85b930b9ac" />
 
 ***
 
 ## Spending Analysis
 
-> *Insert Spending Dashboard screenshot here*
-
-images/spending\_dashboard.png
+<img width="1905" height="938" alt="spending_analysis" src="https://github.com/user-attachments/assets/7731b137-0387-47cd-b21e-4631e1e20ec2" />
 
 ***
 
 ## Paycheck Analytics
 
-> *Insert Paycheck Dashboard screenshot here*
-
-images/paycheck\_dashboard.png
+<img width="1902" height="944" alt="Paycheck_analysis" src="https://github.com/user-attachments/assets/348244b5-506d-4b5a-987b-122a38aa59f3" />
 
 ***
 
 ## Net Worth Tracking
 
-> *Insert Net Worth Dashboard screenshot here*
-
-images/networth\_dashboard.png
+<img width="1900" height="934" alt="Net_worth_tracking" src="https://github.com/user-attachments/assets/54daed7f-43c6-467c-8d35-3962cba9dcf0" />
 
 ***
 
