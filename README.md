@@ -261,8 +261,3 @@ images/networth\_dashboard.png
 This project started as a personal finance tool but evolved into a way to learn and apply modern data engineering concepts using Databricks.
 
 The goal was to build a complete end-to-end solution that combines data ingestion, transformation, analytics, and visualization while solving a real-world problem: understanding where money comes from, where it goes, and how it impacts long-term financial growth.
-
-***
-
-One small suggestion: add one architecture image near the top of the README. A simple diagram showing **Workday + EveryDollar → Bronze → Silver → Gold → Streamlit** will make the repository look dramatically more professional.
-
