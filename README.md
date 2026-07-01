@@ -194,9 +194,7 @@ to estimate potential future net worth based on historical trends.
 
 ## Home Dashboard
 
-> *Insert Home Dashboard screenshot here*
-
-images/home\_dashboard.png
+images/home_page.png
 
 ***
 
